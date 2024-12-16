@@ -4,7 +4,7 @@ Simulações física envolvendo formas primitivas.
 
 |CoppeliaSim| Gazebo|
 |:-------------------------:|:-------------------------:|
-|<img width="400" alt="repouso" src="https://github.com/JonhLucas/Mecanica-dos-solidos/blob/main/assets/primitive1.gif">| <img width="400" alt="repouso" src="https://github.com/JonhLucas/Mecanica-dos-solidos/blob/main/assets/primitive1.gif">|
+|<img width="400" alt="repouso" src="https://github.com/JonhLucas/Mecanica-dos-solidos/blob/main/assets/primitive1.gif">| <img width="400" alt="repouso" src="https://github.com/JonhLucas/Mecanica-dos-solidos/blob/main/assets/gazeboprimitive1.gif">|
 
 ## Simulação 2
 <p align="center">
